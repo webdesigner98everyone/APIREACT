@@ -1,0 +1,20 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "apellido": "Forero",
+            "apellido2": "Guzman",
+            "nombre":"Luis",
+            "username":"luiforgu",
+            "password":"827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id": 2,
+            "apellido": "Loaiza",
+            "apellido2": "Arenas",
+            "nombre":"Brenda",
+            "username":"aleloa",
+            "password":"5822e32774958c814b4b2a7c415c801f"
+        }
+    ]
+}
